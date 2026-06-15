@@ -3,6 +3,8 @@
 Repositório do **Projeto 1** da disciplina **ECM514 — Ciência dos Dados**  
 Instituto Mauá de Tecnologia — 2025
 
+> **Nota:** Em relação à entrega do vídeo, optamos por realizar dois vídeos de até 5 minutos cada, uma para a Parte A (Pesquisa de Opinião) e outra para a Parte B (Séries Temporais).
+
 ---
 
 ## 👥 Integrantes
@@ -24,6 +26,9 @@ Instituto Mauá de Tecnologia — 2025
 IMT_CD_PROJETO_1/
 │
 ├── README.md
+│
+├── apresentacao/
+│   └── apresentacao_CD.pptx
 │
 ├── parte_a_pesquisa_opiniao/
 │   ├── notebook_parte_a.ipynb
@@ -77,7 +82,7 @@ IMT_CD_PROJETO_1/
 | 📓 Notebook (Colab) | [`parte_a_pesquisa_opiniao/notebook_parte_a.ipynb`](parte_a_pesquisa_opiniao/notebook_parte_a.ipynb) |
 | 🗂 Dados | [`parte_a_pesquisa_opiniao/dados/`](parte_a_pesquisa_opiniao/dados/) |
 | 🎥 Vídeo (YouTube) | [Assistir apresentação — Parte A](https://www.youtube.com/watch?v=D47b2_NHeZw) |
-| 📑 Slides | *em breve* |
+| 📑 Slides | [`apresentacao/apresentacao_CD.pptx`](apresentacao/apresentacao_CD.pptx) |
 
 ---
 
@@ -118,7 +123,7 @@ IMT_CD_PROJETO_1/
 | 📓 Notebook (Colab) | [`parte_b_series_temporais/notebook_parte_b.ipynb`](parte_b_series_temporais/notebook_parte_b.ipynb) |
 | 🗂 Dados | [`parte_b_series_temporais/dados/`](parte_b_series_temporais/dados/) |
 | 🎥 Vídeo (YouTube) | [Assistir apresentação — Parte B](https://www.youtube.com/watch?v=fvffIDevyAM) |
-| 📑 Slides | *em breve* |
+| 📑 Slides | [`apresentacao/apresentacao_CD.pptx`](apresentacao/apresentacao_CD.pptx) |
 
 ---
 
